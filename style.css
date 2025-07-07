@@ -1,0 +1,71 @@
+html{
+
+    height: 100%;
+
+}
+
+body{
+
+    height: 100%;
+    margin: 0;
+
+}
+
+#container{
+
+    height: 100%;
+    background-color: rebeccapurple;
+
+}
+
+#topo{
+
+    height: 30%;
+    display: flex;
+    justify-content: center;
+    align-items: end;
+
+}
+
+#meio{
+
+    height: 55%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+#baixo{
+
+    height: 15%;
+    display: flex;
+    justify-content: center;
+
+}
+
+#container-meio{
+
+    height: 100%;
+    width: 100%;
+    margin: 0% 20% 0% 20%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    color: aliceblue;
+
+}
+
+.img-fluid{
+
+    height: 80%;
+
+}
+
+.btn{
+
+    height: 50%;
+    width: 70%;
+
+}
